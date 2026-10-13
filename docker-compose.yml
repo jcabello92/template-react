@@ -1,4 +1,4 @@
-﻿name: ${PROJECT_NAME}-react
+name: ${PROJECT_NAME}-react
 
 services:
   app:
